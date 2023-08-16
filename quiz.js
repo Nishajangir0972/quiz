@@ -39,7 +39,7 @@ const questions = [
   questionNumber++
   changeSelection()
   }
-  },1000)
+  },3000)
 
    
   
